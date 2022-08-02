@@ -1,0 +1,40 @@
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+}
+h3{
+  font-size: 2em;
+}
+#choice{
+  font-size: 1.5em;
+  width: 80px;
+  height: 40px;
+  border-radius: 10px;
+
+}
+
+#start{
+  width: 80px;
+  height: 40px;
+  margin-left: 5px;
+  background: greenyellow;
+  border-radius: 50px;
+}
+
+#countdownDisplay {
+  font-size: 5rem;
+}
+
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+}
+
+#countdownDisplay {
+  font-size: 5rem;
+}
+form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
